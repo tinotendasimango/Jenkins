@@ -1,4 +1,4 @@
-#Create Dockerfile with the following content
+#Create Dockerfile with the following content.
 
 FROM jenkins/jenkins:2.361.3-jdk11
 
