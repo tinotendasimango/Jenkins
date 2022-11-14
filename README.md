@@ -6,4 +6,4 @@ Jenkins is an open source automation server. It helps automate the parts of soft
 # Installation steps
 Follow the steps in Jenkins file to install jenkins through docker on Linux or WSL2.
 
-Also take note of the dockerfile to be able to build the jenkins image. 
+# Also take note of the dockerfile to be able to build the jenkins image. 
